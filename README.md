@@ -1,3 +1,9 @@
+# how to run my program
+
+simply 
+>> php index.php
+
+
 # Tennis Calculator
 
 The tennis calculator takes a set of scores as inputs and produces useful statistics based on those scores.
