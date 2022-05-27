@@ -1,7 +1,7 @@
 # how to run my program
 
 simply 
->> php index.php
+> php index.php
 
 
 # Tennis Calculator
